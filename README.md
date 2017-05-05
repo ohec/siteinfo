@@ -1,0 +1,2 @@
+# siteinfo
+autopager site info
